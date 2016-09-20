@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class OddjobConfig(AppConfig):
-    name = 'OddJob'
+    name = 'oddjob'
